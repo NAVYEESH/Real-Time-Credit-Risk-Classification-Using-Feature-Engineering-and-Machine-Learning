@@ -1,4 +1,4 @@
-# Credit Risk Prediction for Loan Approval
+# Real-Time-Credit-Risk-Classification-Using-Feature-Engineering-and-Machine-Learning
 
 This project develops a **machine learning model** with **96% accuracy** to assess credit risk for an NBFC. The model automates the credit scoring system, categorizing loans into **Poor, Fair, Good, and Excellent** risk levels. Additionally, a **Streamlit dashboard** enables real-time loan default probability predictions, significantly reducing financial risk.
 
